@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thevijayvarma.
+- 👋 Hi, I’m Vijay Varma.
 - 👀 I’m interested in Java Programming.
 - 🌱 I’m currently learning Java Enterprise Edition.
 - 💞️ I’m looking to collaborate on open source Java projects.
